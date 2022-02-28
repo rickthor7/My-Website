@@ -1,1 +1,1 @@
-![icon] (https://raw.githubusercontent.com/AdamMukti/Tiktok/main/favicon.ico)
+![This is an image](https://raw.githubusercontent.com/AdamMukti/Tiktok/main/favicon.ico)
