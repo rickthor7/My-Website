@@ -156,7 +156,7 @@
                 }
                 return j(t, f["a"]), t
             }()) || r) || r),
-            S = new l.a("Hackerb0ne", {
+            S = new l.a("Rickthor7", {
                 color: "#dc2c5a",
                 size: b.a.isMobile ? .4 : .8
             });
